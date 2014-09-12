@@ -1,20 +1,16 @@
 # UtmCookies
 
-Sets a cookie for utm_source, utm_medium, utm_campaign, utm_term, utm_content vlaues.
+Sets a cookie for utm_source, utm_medium, utm_campaign, utm_term, utm_content values.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'utm_cookies'
+    gem 'utm_cookies', git: 'https://github.com/envisialearning/utm_cookies.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install utm_cookies
 
 ## Usage
 
