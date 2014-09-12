@@ -20,7 +20,7 @@ Add this to your app/application_controller.rb
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/utm_cookies/fork )
+1. Fork it ( https://github.com/envisialearning/utm_cookies.git )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
